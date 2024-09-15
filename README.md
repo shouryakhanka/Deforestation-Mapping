@@ -1,1 +1,1 @@
-# major-project-1
+# deforestation mapping
